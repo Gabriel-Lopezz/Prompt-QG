@@ -1,0 +1,35 @@
+- name: Humanity's Last Exam (HLE)
+  rigor: high
+  topic: general
+  source: hugging_face
+  base_uri: cais/hle
+
+- name: AIME 2026
+  rigor: standard
+  topic: math
+  source: hugging_face
+  base_uri: MathArena/aime_2026
+
+- name: Grade School Math 8K (GSM8K)
+  rigor: basic
+  topic: math
+  source: hugging_face
+  base_uri: openai/gsm8k
+
+- name: Mostly Basic Python Problems (MBPP)
+  rigor: basic
+  topic: coding
+  source: hugging_face
+  base_uri: google-research-datasets/mbpp
+
+- name: Code Generation
+  rigor: high
+  topic: coding
+  source: hugging_face
+  base_uri: livecodebench/code_generation
+
+- name: Code Generation Lite
+  rigor: standard
+  topic: coding
+  source: hugging_face
+  base_uri: livecodebench/code_generation_lite

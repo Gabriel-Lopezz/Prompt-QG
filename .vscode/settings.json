@@ -1,0 +1,4 @@
+{
+  "python.defaultInterpreterPath": "/home/gabriel/anaconda3/envs/prompt-qg/bin/python",
+  "python.languageServer": "Pylance"
+}
